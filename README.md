@@ -111,13 +111,8 @@ src/
 
 ## 📝 Licença
 
-Se houver um arquivo `LICENSE`, a licença definida ali se aplica. Caso contrário, considere adicionar uma (ex.: MIT).
-
----
+No momento, **não há um arquivo de licença** definido no repositório.
 
 ## 🙌 Créditos
 
 Projeto criado por [@carlosdancr](https://github.com/carlosdancr).
-
-
-
