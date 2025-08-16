@@ -2,6 +2,8 @@
 
 Uma Pokédex moderna construída com **React**, **TypeScript** e **Vite**, consumindo a **PokéAPI**. O projeto foca em **performance** (lazy loading e paginação), **usabilidade** (filtros, busca e responsividade) e **robustez** (validação de formulário e dos dados recebidos da API).
 
+![Pokédex](public/screenshot.png)
+
 ## ✨ Demonstração
 
 - **Deploy:** [https://pokedex-react-carlosdancr.vercel.app/](https://pokedex-react-beta-ten.vercel.app/)
@@ -116,12 +118,6 @@ Se houver um arquivo `LICENSE`, a licença definida ali se aplica. Caso contrár
 ## 🙌 Créditos
 
 Projeto criado por [@carlosdancr](https://github.com/carlosdancr).
-
----
-
-## 📸 Capturas
-
-![Pokédex](public/screenshot.png)
 
 
 
