@@ -86,7 +86,7 @@ Sem assumir detalhes específicos, a organização típica inclui:
 
 ```
 src/
-  components/    # componentes reutilizáveis (cartões, inputs, etc.)
+  components/    # componentes reutilizáveis (botões, inputs, etc.)
   pages/         # páginas/rotas principais
   services/      # clientes e funções de acesso à API
   hooks/         # hooks customizados
@@ -98,21 +98,5 @@ src/
 
 ## 🔗 Endpoints & dados
 
-- **PokéAPI** — https://pokeapi.co  
-  Exemplos de uso comuns incluem listar pokémons com paginação e obter detalhes por **nome** ou **ID**.
-
-## 🤝 Como contribuir
-
-1. Faça um fork do repositório
-2. Crie uma branch de feature: `git checkout -b feat/minha-feature`
-3. Commit suas alterações: `git commit -m "feat: minha feature"`
-4. Push na branch: `git push origin feat/minha-feature`
-5. Abra um Pull Request 🙌
-
-## 📝 Licença
-
-No momento, **não há um arquivo de licença** definido no repositório.
-
-## 🙌 Créditos
-
-Projeto criado por [@carlosdancr](https://github.com/carlosdancr).
+- **Base**: `https://pokeapi.co/api/v2/`  
+- **Exemplo de recurso**: `GET /pokemon/ditto` retorna JSON com nome, imagem, tipos, estatísticas etc.
